@@ -1,1 +1,1 @@
-hello
+This is a collaborative folder made for a docs copy
